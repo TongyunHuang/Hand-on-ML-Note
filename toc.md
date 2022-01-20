@@ -26,7 +26,7 @@
 - Multilabel Classification
 - Multioutput Classification
 
-### 4. Training Models
+### [4. Training Models](./4.Training-Models.md)
 - Linear Regression
 - Gradient Descent
 - Polynomial Regression
@@ -34,12 +34,22 @@
 - Regularized Linear Models
 - Logistic Regression
 
-### 5. Support Vector Machines
-
+### [5. Support Vector Machines](./5.Support-Vector-Machines.md)
+- Linear Svm Classification
+- Nonlinear SVM Classification 
+- SVM Regression
+- Under the Hood
 
 ### 6. Decision Trees
-
-
+- Training and Visualizing a Decision Tree
+- Making Predictions
+- Estimating Class Probabilities
+- The CART Training Algorithm
+- Computational Complexity
+- Gini Impurity or Entropy
+- Regularization Hyperparameters
+- Regression
+- Instability
 
 ### 7. Ensemble Learning and Random Forests
 
